@@ -1,0 +1,5 @@
+export const male = 'images/male.jpeg'
+export const female = 'images/female.png'
+export const kid = 'images/kids.jpeg'
+export const adult = 'images/adults.jpg'
+export const elderly = 'images/old.jpg' 
